@@ -1,0 +1,23 @@
+{
+  "name": "cc-pixel-office",
+  "owner": {
+    "name": "inabeshuntaro"
+  },
+  "metadata": {
+    "description": "Pixel Office 개발·사업화를 위한 플러그인 마켓플레이스"
+  },
+  "plugins": [
+    {
+      "name": "pixel-office",
+      "source": "./plugins/pixel-office",
+      "description": "Pixel Office 프로젝트를 회사 조직 구조에 맞춰 개발·공모전·사업화 관리하는 스킬.",
+      "version": "1.0.0",
+      "author": {
+        "name": "inabeshuntaro"
+      },
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["pixel-office", "startup", "development", "contest", "company"]
+    }
+  ]
+}
